@@ -1,0 +1,6 @@
+D:\MA038\Prac-3\3\3\bin\Debug\3.exe.config
+D:\MA038\Prac-3\3\3\bin\Debug\3.exe
+D:\MA038\Prac-3\3\3\bin\Debug\3.pdb
+D:\MA038\Prac-3\3\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+D:\MA038\Prac-3\3\3\obj\Debug\3.exe
+D:\MA038\Prac-3\3\3\obj\Debug\3.pdb
